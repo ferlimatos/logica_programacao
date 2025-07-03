@@ -1,14 +1,3 @@
-programa
-
-{
-  funcao inicio() {
-    inteiro numero
-    escreva("Digite um número inteiro: ")
-    leia(numero)
-    escreva("O número digitado foi: ", numero, "\n")
-  }
-}
-
 programa {
   funcao inicio() {
     // Faça um programa que receba dois números e calcule as quatro operações básicas com os números digitados.
@@ -30,5 +19,3 @@ programa {
     escreva("\nA divisão dos números é igual a: ", divisao)
   }
 }
-
-
